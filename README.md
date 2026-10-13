@@ -1,1 +1,0 @@
-# sportradar-liecht
